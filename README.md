@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Instructions on how to run
+
+1. Download xampp and SQL
+2. create sql account
+3. open xampp 
+4. in the admin SQL (XAMPP), create new database named "final2"
+   
